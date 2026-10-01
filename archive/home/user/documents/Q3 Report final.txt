@@ -1,0 +1,2 @@
+Q3 summary: revenue up 4%, churn flat.
+customer_id 1042 escalated twice.

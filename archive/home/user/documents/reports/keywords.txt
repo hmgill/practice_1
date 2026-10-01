@@ -1,0 +1,8 @@
+churn
+revenue
+pipeline
+churn
+retention
+revenue
+forecast
+churn

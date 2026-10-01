@@ -1,0 +1,3 @@
+event_id	customer_id	event_type
+e1	2001	login
+e2	2002	purchase
